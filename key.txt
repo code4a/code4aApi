@@ -1,1 +1,4 @@
-{appid:"",privateKey:""}
+{
+  "appid":"",
+  "privateKey":""
+}
