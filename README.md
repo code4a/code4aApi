@@ -1,6 +1,5 @@
 # code4aApi
-> http请求接口
-#### 为demo提供一些简单的接口实现HTTP请求结果返回
+> http请求接口。为demo提供一些简单的接口实现HTTP请求结果返回
 
 ### Http请求根地址
 
