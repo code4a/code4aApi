@@ -1,0 +1,185 @@
+{
+    "totail": 3,
+    "data": [
+        {
+            "category": "常用",
+            "data": {
+                "count": 2,
+                "list": [
+                    [
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/0.png",
+                            "name": "emoji0"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/1.png",
+                            "name": "emoji1"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/2.png",
+                            "name": "emoji2"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/3.png",
+                            "name": "emoji3"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/4.png",
+                            "name": "emoji4"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/5.png",
+                            "name": "emoji5"
+                        }
+                    ],
+                    [
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/6.png",
+                            "name": "emoji6"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/7.png",
+                            "name": "emoji7"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/8.png",
+                            "name": "emoji8"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/9.png",
+                            "name": "emoji9"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/10.png",
+                            "name": "emoji10"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/11.png",
+                            "name": "emoji11"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "category": "热门",
+            "data": {
+                "count": 2,
+                "list": [
+                    [
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/0.png",
+                            "name": "emoji0"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/1.png",
+                            "name": "emoji1"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/2.png",
+                            "name": "emoji2"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/3.png",
+                            "name": "emoji3"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/4.png",
+                            "name": "emoji4"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/5.png",
+                            "name": "emoji5"
+                        }
+                    ],
+                    [
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/6.png",
+                            "name": "emoji6"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/7.png",
+                            "name": "emoji7"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/8.png",
+                            "name": "emoji8"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/9.png",
+                            "name": "emoji9"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/10.png",
+                            "name": "emoji10"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/11.png",
+                            "name": "emoji11"
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "category": "收藏",
+            "data": {
+                "count": 2,
+                "list": [
+                    [
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/0.png",
+                            "name": "emoji0"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/1.png",
+                            "name": "emoji1"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/2.png",
+                            "name": "emoji2"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/3.png",
+                            "name": "emoji3"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/4.png",
+                            "name": "emoji4"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/5.png",
+                            "name": "emoji5"
+                        }
+                    ],
+                    [
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/6.png",
+                            "name": "emoji6"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/7.png",
+                            "name": "emoji7"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/8.png",
+                            "name": "emoji8"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/9.png",
+                            "name": "emoji9"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/10.png",
+                            "name": "emoji10"
+                        },
+                        {
+                            "icon": "https://raw.githubusercontent.com/code4a/code4aApi/master/res/emoji/11.png",
+                            "name": "emoji11"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}
